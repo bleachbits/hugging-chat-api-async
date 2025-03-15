@@ -1,4 +1,11 @@
-# hugging-chat-api
+# hugging-chat-api-async
+
+My attempt to port this library to async for use with applications that require it. [Discord.py](https://github.com/Rapptz/discord.py) is a good example of this. Also to understand huggingface and port it to other platforms if needed.
+
+DO NOT EXPECT THIS PROJECT TO COMPLETELY WORK. It will be updated with the main fork as changes are added eventually. 
+
+coded by bleachbits <bleachbits@waifu.club>
+
 
 English | [简体中文](README_cn.md)
  
